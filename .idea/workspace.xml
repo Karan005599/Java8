@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="This is the new Project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Java8_Practice/MyInterface.java" afterDir="false" />
+    <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="This is Functional Interface">
+      <change afterPath="$PROJECT_DIR$/src/com/Java8_Practice/InheritIMP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lamda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java8_Practice/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java8_Practice/MyInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InheritIMP.executor": "Run",
     "Application.Lambda.executor": "Run",
     "Application.Lamda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,22 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720471218744</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="This is Functional Interface">
+      <option name="closed" value="true" />
+      <created>1720474032484</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720474032484</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the new Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is the new Project" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/Java8_Practice/MyInterface.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="This is Functional Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is Functional Interface" />
   </component>
 </project>
