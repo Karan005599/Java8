@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="Lambda Expression Implemntation">
-      <change beforePath="$PROJECT_DIR$/src/com/Java8_Practice/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java8_Practice/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720647761509</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lambda Expression Implemntation">
+      <option name="closed" value="true" />
+      <created>1720647858778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720647858778</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

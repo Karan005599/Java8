@@ -4,7 +4,7 @@ package com.Java8_Practice;
 public class Lambda {
     public static void main(String[] args) {
 
-        Employee d = () -> " Software Engineer";
+        Employee d = () -> " Suraj is a Software Engineer";
         System.out.println(d.getName());
 
 
