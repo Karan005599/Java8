@@ -4,13 +4,17 @@ package com.Java8_Practice;
 // cant be changed or overridden in the implementation class
 
 interface A{
-    public static  void message (){
+     static  void message (){
         System.out.println(" hello Karan ");
+    }
+    default void  BMessage(){
+        System.out.println("Bye !!");
     }
 }
 public class StMethod implements A {
     public static void main(String[] args) {
-
+         StMethod o = new StMethod();
+         o.BMessage();
          A.message();  // only way to call the static method of the interface is to call by name .
 
     }
