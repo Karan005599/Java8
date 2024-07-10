@@ -15,7 +15,7 @@ public class StMethod implements A {
     public static void main(String[] args) {
          StMethod o = new StMethod();
          o.BMessage();
-         A.message();  // only way to call the static method of the interface is to call by name .
+         A.message();  // only way to call the static method of the interface is to call by name we cant call it by object reference  .
 
     }
 }

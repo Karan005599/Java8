@@ -3,15 +3,13 @@ package com.Java8_Practice;
 //  : the interface which having only one abstract method by have one or more default or static method
 public class Lambda {
     public static void main(String[] args) {
-        message();
-    }
-    private static void message(){
-        System.out.println("Say Hello");
- // () -> System.out.println("Say hello"); Lambda Expression
 
-    }
+        Employee d = () -> " Software Engineer";
+        System.out.println(d.getName());
 
-    
-    }
+
+        // () -> System.out.println("Say hello"); Lambda Expression
+
+    }    }
 
 
