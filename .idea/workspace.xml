@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="Lambda Expression Implemntation">
-      <change beforePath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" afterDir="false" />
-    </list>
+    <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="Lambda Expression Implemntation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,20 +45,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.InheritIMP.executor": "Run",
-    "Application.Lambda.executor": "Run",
-    "Application.Lamda.executor": "Run",
-    "Application.StMethod.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/study tools/java7/Java8/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InheritIMP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lamda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StMethod.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/study tools/java7/Java8/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -126,8 +124,27 @@
       <option name="project" value="LOCAL" />
       <updated>1720647858778</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Map using Lambda Expression sorting acc and dec">
+      <option name="closed" value="true" />
+      <created>1721677951732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721677951732</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the new Project" />
@@ -135,6 +152,7 @@
     <MESSAGE value="This is default method in interface" />
     <MESSAGE value="Static method inside interface" />
     <MESSAGE value="Lambda Expression Implemntation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression Implemntation" />
+    <MESSAGE value="Map using Lambda Expression sorting acc and dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map using Lambda Expression sorting acc and dec" />
   </component>
 </project>
