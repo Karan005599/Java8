@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="Lambda Expression Implemntation">
-      <change beforePath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Java8_Practice/Lambda.java" afterDir="false" />
+    <list default="true" id="01d3f0fc-c023-4818-96bb-da525f5ae17b" name="Changes" comment="Lambda Expression Implemntation using thread">
+      <change afterPath="$PROJECT_DIR$/src/ListComp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Java8_Practice/TreeSett.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,10 +59,12 @@
     "Application.InheritIMP.executor": "Run",
     "Application.Lambda.executor": "Run",
     "Application.Lamda.executor": "Run",
+    "Application.ListComp.executor": "Run",
     "Application.StMethod.executor": "Run",
+    "Application.TreeSett.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "JAVA-8",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/study tools/java7/Java8/src/Main.java"
@@ -126,8 +135,43 @@
       <option name="project" value="LOCAL" />
       <updated>1720647858778</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lambda Expression Implemntation">
+      <option name="closed" value="true" />
+      <created>1720647919685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720647919685</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lambda Expression Implemntation">
+      <option name="closed" value="true" />
+      <created>1720648251268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720648251268</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Lambda Expression Implemntation using thread">
+      <option name="closed" value="true" />
+      <created>1720702900512</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720702900512</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the new Project" />
@@ -135,6 +179,7 @@
     <MESSAGE value="This is default method in interface" />
     <MESSAGE value="Static method inside interface" />
     <MESSAGE value="Lambda Expression Implemntation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression Implemntation" />
+    <MESSAGE value="Lambda Expression Implemntation using thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression Implemntation using thread" />
   </component>
 </project>

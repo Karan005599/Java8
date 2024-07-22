@@ -4,13 +4,16 @@ package com.Java8_Practice;
 // Using lambda expression we don't need to use separate implementation
 public class Lambda {
     public static void main(String[] args) {
-
-        Employee d = () -> " Suraj is a Software Engineer";
-        System.out.println(d.getName());
+        Runnable r = () -> {
+            for ( int i =1;i<10;i++){
+                System.out.println("Hello World ");
+            }
+        };
+        Thread d = new Thread(r);
+        d.run();
 
 
         // () -> System.out.println("Say hello"); Lambda Expression
 
     }    }
-
 
